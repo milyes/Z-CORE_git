@@ -1,3 +1,10 @@
-Z-CORE_git/
-logs/http.log
-logs/*.log
+nsp-zcore-v11/
+nersecurepro/
+02_AGENTS_IA/
+downloads/
+android-rclone-zcore/
+attack.py
+*.log
+zcore-agent7/
+__pycache__/
+node_modules/
